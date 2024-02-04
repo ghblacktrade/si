@@ -1,0 +1,3 @@
+/Users/gh/CLionProjects/Kernighan_Ritchie/cmake-build-debug/CMakeFiles/Kernighan_Ritchie.dir
+/Users/gh/CLionProjects/Kernighan_Ritchie/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gh/CLionProjects/Kernighan_Ritchie/cmake-build-debug/CMakeFiles/rebuild_cache.dir
